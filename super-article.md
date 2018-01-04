@@ -77,6 +77,6 @@ belong to the previous footnote.
 First line here
 Second line here
 
-test1
+test1  
 test2
 
