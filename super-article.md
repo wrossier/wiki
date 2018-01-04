@@ -47,3 +47,36 @@
 [External Link Title](https://www.google.com/)
 
 
+![Img 7213](/uploads/img-7213.jpg "Img 7213")
+
+-----
+
+
+
+-----
+
+
+```
+var sample = 'code';
+
+on.multiple(lines) {
+    cool();
+}
+```
+
+Here is a footnote reference,[^1] and another.[^longnote]
+
+[^1]: Here is the footnote.
+
+[^longnote]: Here's one with multiple blocks.
+
+    Subsequent paragraphs are indented to show that they
+belong to the previous footnote.
+
+
+First line here
+Second line here
+
+test1
+test2
+
